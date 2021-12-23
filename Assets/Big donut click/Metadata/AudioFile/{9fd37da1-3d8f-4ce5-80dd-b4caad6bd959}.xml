@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{9fd37da1-3d8f-4ce5-80dd-b4caad6bd959}">
+		<property name="assetPath">
+			<value>Шлепы/Шлеп 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.22791383219954647</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{29dba736-9562-40f9-a233-9279ef4cc980}</destination>
+		</relationship>
+	</object>
+</objects>

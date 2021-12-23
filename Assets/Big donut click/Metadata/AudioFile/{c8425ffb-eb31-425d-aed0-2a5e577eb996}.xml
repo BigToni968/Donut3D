@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{c8425ffb-eb31-425d-aed0-2a5e577eb996}">
+		<property name="assetPath">
+			<value>Стуки/Кирка/Track 59.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>14.266666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{29dba736-9562-40f9-a233-9279ef4cc980}</destination>
+		</relationship>
+	</object>
+</objects>

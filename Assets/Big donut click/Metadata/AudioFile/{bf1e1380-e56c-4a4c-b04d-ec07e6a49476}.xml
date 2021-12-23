@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{bf1e1380-e56c-4a4c-b04d-ec07e6a49476}">
+		<property name="assetPath">
+			<value>New Folder/09 - bag. crunch bag of aluminum pop cans and plastic water bottles - hard stomp.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12.277551020408163</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{29dba736-9562-40f9-a233-9279ef4cc980}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{55926d5e-2c66-4266-82e4-3e4106c24a18}">
+		<property name="assetPath">
+			<value>New Folder/202230__deraj__pop-sound.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.65015873015873016</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{29dba736-9562-40f9-a233-9279ef4cc980}</destination>
+		</relationship>
+	</object>
+</objects>
